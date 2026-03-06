@@ -1,0 +1,10 @@
+
+print("================================")
+print("    SISTEMA DE VENTAS RIWI      ")
+print("================================")
+print("Precio unitario producto: $", precio_unit)
+print("Cantidad:", cantidad_pro)
+print("Descuento VIP",descuento)
+print("Total a pagar: $", total)
+print("================================")
+print("¡Gracias por su compra!")
